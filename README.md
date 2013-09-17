@@ -2,6 +2,7 @@ Hunger Games Strategy
 =====================
 
 Author: Michael Dickens
+
 Created: 2013-07-25
 
 This document describes the process by which I devised my strategy for Brilliant's Hunger Games (https://brilliant.org/competitions/hunger-games/).
